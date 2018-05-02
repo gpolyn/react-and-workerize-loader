@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {WorkerPool} from './workerPool';
+import {WorkerPool} from './workerPool2';
 
 class App extends Component {
 
